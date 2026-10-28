@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"71ca5de9a9ad3cb0","x":25,"y":160,"width":250,"height":60,"type":"text","text":""},
+		{"id":"22a2de73b6b69b36","x":-100,"y":-220,"width":250,"height":60,"type":"text","text":"Salt"},
+		{"id":"40fd2915c0d121a5","x":-225,"y":-120,"width":250,"height":60,"type":"text","text":"\\>> Momentous Burst"},
+		{"id":"780c8799ce769ed6","x":-225,"y":-20,"width":250,"height":60,"type":"text","text":"Sinkhole"},
+		{"id":"a9910899bdefb39c","type":"text","text":"Mercury","x":-100,"y":60,"width":250,"height":60},
+		{"id":"9295fcb479e599af","type":"text","text":"\\>> Toxic Wave","x":-225,"y":160,"width":250,"height":60},
+		{"id":"b9391c89ef389aeb","type":"text","text":"Sulfur","x":-100,"y":320,"width":250,"height":60},
+		{"id":"ff7b6326625caea9","type":"text","text":"\\>> Energy Blast","x":-225,"y":420,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d65fb814dc3ca213","fromNode":"22a2de73b6b69b36","fromSide":"bottom","toNode":"40fd2915c0d121a5","toSide":"top"},
+		{"id":"328d87ad1763b62e","fromNode":"40fd2915c0d121a5","fromSide":"bottom","toNode":"780c8799ce769ed6","toSide":"top"},
+		{"id":"5411accc10cdbac2","fromNode":"a9910899bdefb39c","fromSide":"bottom","toNode":"9295fcb479e599af","toSide":"top"},
+		{"id":"6fe63a777796e072","fromNode":"b9391c89ef389aeb","fromSide":"bottom","toNode":"ff7b6326625caea9","toSide":"top"}
+	]
+}

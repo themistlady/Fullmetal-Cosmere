@@ -113,10 +113,14 @@ The size of this attack’s damage dice increases with your ranks in Alchemy; at
 #### Mercury
 The principle associated with the volatility of matter, the combination of water and air as philosophical elements, and the transmutation of fluids.
 
+**Toxic Wave**
+*Activation:* >>
+Spend 1 Energy to make a ranged Alchemy attack against the Physical defense of a target within 60 feet of you, rolling 2d4 vital damage.
+The size of this attack’s damage dice increases with your ranks in Alchemy; at 2 ranks, roll 2d6 (instead of 2d4), and so on.
 #### Sulfur
 The Principle associated with aggression and motion, the combination of air and fire as philosophical elements, and the generation of energy through transmutation.
 
 **Energy Blast**
 *Activation:* >>
-Spend 1 Investiture to use Transmutation in an area up to the size you can affect with your ranks in Alchemy. Make one Alchemy attack and compare the test result to the Physical defense of each character of your choice in that arearolling 2d4 energy damage. 
+Spend 1 Investiture to use Transmutation in an area up to the size you can affect with your ranks in Alchemy. Make one Alchemy attack and compare the test result to the Physical defense of each character of your choice in that area rolling 2d4 energy damage. 
 The size of this attack’s damage dice increases with your ranks in Progression; at 2 ranks, roll 2d6 (instead of 2d4), and so on.
