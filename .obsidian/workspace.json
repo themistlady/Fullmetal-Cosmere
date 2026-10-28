@@ -12,12 +12,14 @@
             "id": "4e39cd9a3c11756c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Alchemy/The Alchemist/Alchemist Talent Tree.png"
+                "file": "Alchemy/Alchemy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Alchemist Talent Tree"
+              "icon": "lucide-file",
+              "title": "Alchemy"
             }
           }
         ]
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alchemy/The Alchemist/Alchemist Talent Tree.png",
+                "file": "Alchemy/Alchemy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,12 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab9e443ddc423c7e",
+  "active": "4e39cd9a3c11756c",
   "lastOpenFiles": [
-    "Alchemy/The Alchemist/Alchemist Talent Tree.canvas",
-    "Alchemy/The Alchemist/Alchemist Talent Tree.png",
-    "Alchemy/The Alchemist/The Alchemist Path.md",
     "Alchemy/Circle Talents.canvas",
+    "Alchemy/The Alchemist/Alchemist Talent Tree.png",
+    "Alchemy/The Alchemist/Alchemist Talent Tree.canvas",
+    "Alchemy/The Alchemist/The Alchemist Path.md",
     "Alchemy/Alchemy.md",
     "Alchemy/The Alchemist",
     "Alchemy",
