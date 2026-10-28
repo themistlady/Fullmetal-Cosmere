@@ -13,12 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alchemy.md",
+                "file": "Alchemy/The Alchemist/The Alchemist Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alchemy"
+              "title": "The Alchemist Path"
+            }
+          }
+        ]
+      },
+      {
+        "id": "54b93a57abb8c430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7657e72f675c68fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Alchemy/The Alchemist/Alchemist Talent Tree.canvas",
+                "viewState": {
+                  "x": -45,
+                  "y": -150,
+                  "zoom": -0.3314003960242551
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Alchemist Talent Tree"
             }
           }
         ]
@@ -83,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7974bc70f44242c1",
@@ -161,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alchemy.md",
+                "file": "Alchemy/The Alchemist/Alchemist Talent Tree.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,9 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a4d9c856892ef02",
+  "active": "7657e72f675c68fe",
   "lastOpenFiles": [
-    "Bem-vindo.md",
-    "Alchemy.md"
+    "Alchemy/The Alchemist/The Alchemist Path.md",
+    "Alchemy/The Alchemist/Alchemist Talent Tree.canvas",
+    "Alchemy/Alchemy.md",
+    "Alchemy/The Alchemist",
+    "Alchemy",
+    "Bem-vindo.md"
   ]
 }

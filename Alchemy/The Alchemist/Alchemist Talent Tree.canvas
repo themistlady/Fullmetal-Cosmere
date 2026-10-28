@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"f531584d671f3b3e","type":"text","text":"\\# Alchemical Study","x":-175,"y":-340,"width":250,"height":60},
+		{"id":"bea79ed8c6015a3c","type":"text","text":"% Energized","x":-320,"y":-220,"width":250,"height":60},
+		{"id":"b7ca78de30ea8301","type":"text","text":"\\# Defensive Alchemy","x":-320,"y":-120,"width":250,"height":60},
+		{"id":"381e56a3076619d9","type":"text","text":"% Alchemical Crafting","x":-20,"y":-220,"width":250,"height":60},
+		{"id":"53c7a74f9cef2c57","type":"text","text":"% Organic Alchemy","x":-20,"y":-120,"width":250,"height":60},
+		{"id":"4c62706e6c292e5d","type":"text","text":"\\> Medicinal Transmutation","x":-20,"y":-20,"width":250,"height":60},
+		{"id":"f347c0b12f5aa1e2","type":"text","text":"% Living Weapon","x":-320,"y":-20,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ae335e5323e45527","fromNode":"f531584d671f3b3e","fromSide":"bottom","toNode":"bea79ed8c6015a3c","toSide":"top"},
+		{"id":"89019078b5ac2c7a","fromNode":"bea79ed8c6015a3c","fromSide":"bottom","toNode":"b7ca78de30ea8301","toSide":"top"},
+		{"id":"6e5875d22fd8001d","fromNode":"b7ca78de30ea8301","fromSide":"bottom","toNode":"f347c0b12f5aa1e2","toSide":"top"},
+		{"id":"32127885d66ec7ba","fromNode":"f531584d671f3b3e","fromSide":"bottom","toNode":"381e56a3076619d9","toSide":"top"},
+		{"id":"cacde7ba7680cf99","fromNode":"b7ca78de30ea8301","fromSide":"right","toNode":"53c7a74f9cef2c57","toSide":"left"},
+		{"id":"942100984ba6895d","fromNode":"53c7a74f9cef2c57","fromSide":"bottom","toNode":"4c62706e6c292e5d","toSide":"top"},
+		{"id":"7afefb636c8c410b","fromNode":"381e56a3076619d9","fromSide":"bottom","toNode":"53c7a74f9cef2c57","toSide":"top"}
+	]
+}
