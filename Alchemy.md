@@ -13,7 +13,7 @@ In a non-stressful, low-pressure situation, you may choose not to roll the D20, 
 
 **Transmute**
 *Activation:* >
-If you have access to a transmutation Circle within reach, you may use it to perform an appropriate transmutation.
+If you have access to a transmutation Circle within reach, you may use it to perform an appropriate transmutation, spending it in the process.
 You must be touching both the Circle and the object or surface that is to be transmuted, and spend the appropriate amount of Energy (see Transmutation in Practice for the Energy costs).
 No test is required to Transmute.
 
@@ -83,4 +83,32 @@ The Circle DC for combustion is usually 20.
 ### Sidebar: Crafting
 In order to use transmutation to craft even the most basic equipment always requires an appropriate Expertise. Even then, only the more rudimentary items can be crafted initially, with intricate machinery requiring a talent.
 
-### Sidebar: Accumulating Circles
+### Sidebar: Carrying Circles
+If an you wish to draw circles in advance and carry them with you, you may only carry up to a maximum equal to your Intellect score. Signature Circles do not count against this maximum.
+
+## Signature Circles
+A signature Circle is a key piece of an alchemist's research, and the most practical way to use alchemy on the fly. Whenever you complete the "Design a Circle" goal (generally achieved through the Alchemist path) you gain access to a unique signature Circle.
+Signature Circles generally have a set of characteristics associated with them, the most basic of which is an Expertise, gained when the Circle is designed. Circle characteristics are still character characteristics, but are intrinsically linked to a specific Circle, and do not apply to any other Circles.
+
+### Using a Signature Circle
+A signature Circle counts as a transmutation Circle for all intents and purposes, and may be used to perform transmutations. An alchemist is always assumed to have access to their signature Circles, and they are not spent in the process of transmutation.
+
+### Circle Expertise
+Whenever you gain access to a signature Circle, you also gain an Expertise associated with it. This Expertise defines the core transmutation described by the circle, and determines, in a broad sense, what Transmuting with it can achieve.
+This still counts as one of your Expertises, and you can use it as normal.
+Each circle may only have one Expertise.
+
+### Circle Talents
+A Circle Talent may be taken as any other talent, but upon choosing it you must assign it to a specific signature Circle, and only transmutations performed through it may benefit from them.
+Circle Talents help shape the alchemical capabilities of your signature Circle.
+Circle Talents are divided between three talent trees, referring to the three basic Principles, and the forms of transmutation influenced by them.
+
+#### Salt
+The Principle associated with the physical world, the combination of earth and water as philosophical elements, and the transmutation of solid matter.
+
+#### Mercury
+The principle associated with the volatility of matter, the combination of water and air as philosophical elements, and the transmutation of fluids.
+
+#### Sulfur
+The Principle associated with aggression and motion, the combination of air and fire as philosophical elements, and the generation of energy through transmutation.
+
