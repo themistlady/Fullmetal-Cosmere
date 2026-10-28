@@ -66,7 +66,7 @@ You can’t initially transmute organic matter with this ability.
 
 #### Transforming Matter
 When you transmute, you can rearrange the shape of an object of surface down to a molecular level. This object or portion of the surface can’t exceed the Effect Size for your ranks in Alchemy (see the Power Scaling table). 
-The Energy cost for transforming matter is dependent on the number of ranks required to transform an object of that size ([1 for Small, etc.]).
+The Energy cost for transforming matter is dependent on the number of ranks required to transform an object of that size (1 for Small, etc.).
 You can’t initially transmute organic matter with this ability.
 
 *Chemical Rearrangement.* You may isolate an individual element from a larger substance, or combine different elements into a single compound. You must know the exact composition of both your initial reagents and your expected product.
@@ -77,7 +77,7 @@ In addition, it is possible to transmute a source of water into changing states 
 Hydrokinesis never requires an Expertise, and has a Circle DC of 10.
 
 *Combustion.* Matter can be transformed to generate a combustion reaction and produce large amounts of energy. In order to perform a combustion transmutation, it is generally necessary to isolate/concoct some form of combustible matter, air alone is not enough.
-The Energy cost for combustion does not depend on the amount of matter being used (though that is still limited by your ranks in Alchemy), instead being dependent on the number of ranks associated to the expected Effect Die, up to your maximum ([1 for 1d4, etc.]).
+The Energy cost for combustion does not depend on the amount of matter being used (though that is still limited by your ranks in Alchemy), instead being dependent on the number of ranks associated to the expected Effect Die, up to your maximum (1 for 1d4, etc.).
 The Circle DC for combustion is usually 20.
 
 ### Sidebar: Crafting
